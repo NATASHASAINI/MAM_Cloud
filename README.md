@@ -16,7 +16,8 @@ Under Systems manager > Configure > Owners, you can associate device owners with
 To Remotely wipe the device and clear passcode and activation lock of the device. Kindly note erase command has been successfully sent for the device with Serial number Once you login to Meraki and are on the company’s device list, you’ll need to do the following: Navigate to Systems Manager > DEP.
 Search for the S/N here:
 
-![image](https://github.com/NATASHASAINI/MAM_Cloud/assets/156629309/5befe298-27f7-4f99-a11d-28719af4cba9)
+![image](https://github.com/NATASHASAINI/MAM_Cloud/assets/156629309/08ff4ca4-2863-4093-b3d1-c0e37872d81a)
+
 
 
 Then click on the name of the device to open it and then scroll down to the MDM Commands section:
